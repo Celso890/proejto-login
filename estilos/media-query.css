@@ -2,7 +2,7 @@
 
 
 /* Configuração para TABLET*/
-@media screen and (min-width: 828px) and (max-width: 992px) {
+@media screen and (min-width: 1795px) and (max-width: 1992px) {
     
     body {
         background-image: linear-gradient(to bottom, #00C3F3,#3D71B3,#266581);
@@ -24,7 +24,7 @@
     }
 }
 
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 1992px) {
     
     body {
         background-image: linear-gradient(to bottom, #00C3F3,#3D71B3,#266581);
