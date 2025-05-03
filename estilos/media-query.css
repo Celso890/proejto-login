@@ -1,8 +1,8 @@
 @charset "UTF-8";
 
-
+/* Min Width para o iphone 11 são 1730 pixels*/
 /* Configuração para TABLET*/
-@media screen and (min-width: 1730px) and (max-width: 1900px) {
+@media screen and (min-width: 728px) and (max-width: 992px) {
     
     body {
         background-image: linear-gradient(to bottom, #00C3F3,#3D71B3,#266581);
@@ -24,7 +24,7 @@
     }
 }
 
-@media screen and (min-width: 1900px) {
+@media screen and (min-width: 992px) {
     
     body {
         background-image: linear-gradient(to bottom, #00C3F3,#3D71B3,#266581);
